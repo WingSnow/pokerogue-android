@@ -12,7 +12,6 @@
   "heavyRain": "強い雨",
   "harshSun": "大日照り",
   "strongWinds": "乱気流",
-  "neutralizingGas": "かがくへんかガス",
   "misty": "ミストフィールド",
   "electric": "エレキフィールド",
   "grassy": "グラスフィールド",
@@ -44,6 +43,5 @@
   "fireGrassPledge": "火の海",
   "waterFirePledge": "にじ",
   "grassWaterPledge": "湿原",
-  "fairyLock": "フェアリーロック",
-  "imprison": "ふういん"
+  "fairyLock": "フェアリーロック"
 }

@@ -984,7 +984,7 @@
     "description": "Le Pokémon est protégé par des écailles de glace. Les dégâts qu’il subit par des capacités spéciales sont divisés par deux."
   },
   "ripen": {
-    "name": "Murissement",
+    "name": "Mûrissement",
     "description": "Le Pokémon fait murir la Baie qu’il tient et double ainsi son effet."
   },
   "iceFace": {
@@ -1197,7 +1197,7 @@
   },
   "supersweetSyrup": {
     "name": "Nectar Mielleux",
-    "description": "Quand le Pokémon entre au combat, une odeur de nectar sucré se répand sur le terrain, ce qui baisse l’Esquive de l’adversaire."
+    "description": "La première fois que le Pokémon entre au combat, une odeur de nectar sucré se répand sur le terrain, ce qui baisse l’Esquive de l’adversaire."
   },
   "hospitality": {
     "name": "Aux Petits Soins",

@@ -4,6 +4,5 @@
   "shinyOnHover": "Variocolor",
   "commonShiny": "Comú",
   "rareShiny": "Rar",
-  "epicShiny": "Èpica",
-  "money": "{{amount, number}} ₽"
+  "epicShiny": "Èpica"
 }

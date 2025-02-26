@@ -13,7 +13,8 @@
     "SPD": "Veloc.",
     "SPDshortened": "Veloc.",
     "ACC": "Precisão",
-    "EVA": "Evasão"
+    "EVA": "Evasão",
+    "HPStat": "PS"
   },
   "Type": {
     "UNKNOWN": "Desconhecido",
@@ -36,11 +37,5 @@
     "DARK": "Sombrio",
     "FAIRY": "Fada",
     "STELLAR": "Estelar"
-  },
-  "eternal_floette_expanded": "Floette Flor Eterna",
-  "bloodmoon_ursaluna_expanded": "Ursaluna Lua Sangrenta",
-  "expandedNameALOLA": "{{species}} de Alola",
-  "expandedNameGALAR": "{{species}} de Galar",
-  "expandedNameHISUI": "{{species}} de Hisui",
-  "expandedNamePALDEA": "{{species}} de Paldea"
+  }
 }

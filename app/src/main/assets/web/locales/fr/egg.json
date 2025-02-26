@@ -1,5 +1,4 @@
 {
-  "all": "Tous",
   "egg": "Œuf",
   "greatTier": "Rare",
   "ultraTier": "Épique",
@@ -14,7 +13,6 @@
   "gachaTypeShiny": "Taux de Chromatiques élevé",
   "eventType": "Évènement Mystère",
   "selectMachine": "Sélectionnez une machine.",
-  "noVouchers": "Vous n’avez aucun coupon !",
   "notEnoughVouchers": "Vous n’avez pas assez de coupons !",
   "tooManyEggs": "Vous avez trop d’Œufs !",
   "pull": "Tirage",
@@ -25,6 +23,5 @@
   "rareEggMoveUnlock": "Capacité Œuf Rare débloquée :\n{{moveName}}",
   "moveUPGacha": "Bonus Capacité\nŒuf Rare !",
   "shinyUPGacha": "Bonus\nChromatique !",
-  "legendaryUPGacha": "Bonus !",
-  "vouchersExceedEggCap": "Impossible ! Cela excèderait la limite d’Œufs !"
+  "legendaryUPGacha": "Bonus !"
 }

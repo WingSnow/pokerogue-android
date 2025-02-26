@@ -2,12 +2,7 @@
 
 This repository contains the locales files for the [PokéRogue](https://github.com/pagefaultgames/pokerogue) project.
 
-## How to Contribute
-
-Reach out to `Head of Translation` on our [Discord](https://discord.gg/x6mnWhvc).
-They will be able to provide you with further information.
-
-## Languages
+### Languages
 
 ### Currently supported
 
@@ -22,22 +17,17 @@ They will be able to provide you with further information.
 - zh-CN - Chinese (Simplified)
 - zh-TW - Chinese (Traditional)
 
-### Present in game code but disabled
+### Integrated but disabled
 
-- ca-ES - Catalan *(Removed because not yet translated enough, needs help)*
+- ca-ES - Catalan (Reason: not yet translated enough)
 
 ### Pending
-*Waiting for them to be more complete, needs help*
 
 - da - Danish
-- he - Hebrew *(Note: The game needs to be properly compatible with right-to-left languages before being implemented. Any help on this regard would be very welcomed.)*
+- he - Hebrew
 - tr - Turkish
-- ro - Romanian
 
-### Indefinitely pending
+## How to Contribute
 
-- th - Thai *(No translator available)*
-
-### Non-existent and wished by Translation Heads
-
-- ru - Russian
+Reach out to `Head of Translation` on our [Discord](https://discord.gg/x6mnWhvc).
+They will be able to provide you with further information.

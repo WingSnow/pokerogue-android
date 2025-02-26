@@ -1,5 +1,4 @@
 {
-  "all": "前枚",
   "egg": "タマゴ",
   "greatTier": "レア",
   "ultraTier": "超レア",
@@ -14,7 +13,6 @@
   "gachaTypeShiny": "色違い確率アップ",
   "eventType": "謎イベント",
   "selectMachine": "ガチャマシンを選択",
-  "noVouchers": "タマゴクーポンがありません！",
   "notEnoughVouchers": "タマゴクーポンが足りません！",
   "tooManyEggs": "タマゴが一杯です!",
   "pull": "回引く",
@@ -25,6 +23,5 @@
   "rareEggMoveUnlock": "レアなタマゴ技：　{{moveName}}を　覚えた！！",
   "moveUPGacha": "技 UP!",
   "shinyUPGacha": "色違い UP!",
-  "legendaryUPGacha": "UP!",
-  "vouchersExceedEggCap": "前枚のクーポンは タマゴの 最高限度を 超えます！"
+  "legendaryUPGacha": "UP!"
 }

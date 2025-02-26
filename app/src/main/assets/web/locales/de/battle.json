@@ -77,12 +77,11 @@
   "skipItemQuestion": "Bist du sicher, dass du kein Item nehmen willst?",
   "itemStackFull": "Du hast bereits zu viele von {{fullItemName}}. Du erhältst stattdessen {{itemName}}.",
   "eggHatching": "Oh?",
-  "eggSkipPrompt": "{{eggsToHatch}} Eier sind bereit zu schlüpfen. Zur Ei-Zusammenfassung springen?",
+  "eggSkipPrompt": "Zur Ei-Zusammenfassung springen?",
   "ivScannerUseQuestion": "IV-Scanner auf {{pokemonName}} benutzen?",
   "wildPokemonWithAffix": "{{pokemonName}} (wild)",
   "foePokemonWithAffix": "{{pokemonName}} (Gegner)",
   "useMove": "{{pokemonNameWithAffix}} setzt {{moveName}} ein!",
-  "magicCoatActivated": "{{pokemonNameWithAffix}} leitet {{moveName}} zurück!",
   "drainMessage": "{{pokemonName}} wurde Energie abgesaugt",
   "regainHealth": "KP von {{pokemonName}} wurden wieder aufgefrischt!",
   "stealEatBerry": "{{pokemonName}} hat {{targetName}} seine {{berryName}} weggefuttert!",
@@ -115,6 +114,5 @@
   "ppReduced": "{{moveName}} von {{targetName}} wird um {{reduction}} AP reduziert!",
   "mysteryEncounterAppeared": "Was ist das?",
   "battlerTagsHealBlock": "{{pokemonNameWithAffix}} kann nicht geheilt werden, da die Heilung blockiert wird!",
-  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}} kann wieder geheilt werden!",
-  "pokemonTerastallized": "{{pokemonNameWithAffix}} terakristallisiert zum Typ {{type}}!"
+  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}} kann wieder geheilt werden!"
 }

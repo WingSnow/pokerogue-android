@@ -1,5 +1,5 @@
 {
-  "unknownLocation": "Somewhere you can’t remember",
+  "unknownLocation": "Somewhere you can't remember",
   "TOWN": "Town",
   "PLAINS": "Plains",
   "GRASS": "Grassy Field",
@@ -34,20 +34,5 @@
   "SNOWY_FOREST": "Snowy Forest",
   "ISLAND": "Island",
   "LABORATORY": "Laboratory",
-  "END": "???",
-
-  "COMMON": "Common",
-  "UNCOMMON": "Uncommon",
-  "RARE": "Rare",
-  "SUPER_RARE": "Super Rare",
-  "ULTRA_RARE": "Ultra Rare",
-  "BOSS": "Boss",
-  "BOSS_RARE": "Boss Rare",
-  "BOSS_SUPER_RARE": "Boss Super Rare",
-  "BOSS_ULTRA_RARE": "Boss Ultra Rare",
-  "ALL": "All",
-  "DAWN": "Dawn",
-  "DAY": "Day",
-  "DUSK": "Dusk",
-  "NIGHT": "Night"
+  "END": "???"
 }

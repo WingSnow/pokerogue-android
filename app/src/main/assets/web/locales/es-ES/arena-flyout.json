@@ -12,7 +12,6 @@
   "heavyRain": "Diluvio",
   "harshSun": "Sol abrasador",
   "strongWinds": "Turbulencias",
-  "neutralizingGas": "Gas Reactivo",
   "misty": "Campo de niebla",
   "electric": "Campo eléctrico",
   "grassy": "Campo de hierba",
@@ -44,6 +43,5 @@
   "fireGrassPledge": "Mar de Llamas",
   "waterFirePledge": "Arcoíris",
   "grassWaterPledge": "Pantano",
-  "fairyLock": "Cerrojo Feérico",
-  "imprison": "Sellar"
+  "fairyLock": "Cerrojo Feérico"
 }

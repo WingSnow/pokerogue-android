@@ -25,7 +25,6 @@
   "bellChimed": "\tSi sente suonare una campanella!",
   "foresawAnAttack": "{{pokemonName}} presagisce\nl’attacco imminente!",
   "isTighteningFocus": "{{pokemonName}} si concentra al massimo!",
-  "lostFocus": "{{pokemonName}} perde\nla concentrazione e non può agire!",
   "hidUnderwater": "{{pokemonName}} sparisce\nsott’acqua!",
   "soothingAromaWaftedThroughArea": "Un gradevole profumo si diffonde nell’aria!",
   "sprangUp": "{{pokemonName}} spicca un gran balzo!",
@@ -75,9 +74,5 @@
   "afterYou": "{{targetName}} approfitta della cortesia!",
   "combiningPledge": "Formidabile! Due mosse che diventano una!\nÈ una mossa combinata!",
   "awaitingPledge": "{{userPokemonName}} sta aspettando\n{{allyPokemonName}}...",
-  "corrosiveGasItem": "{{pokemonName}} scioglie\n{{itemName}} di {{targetName}}!",
-  "instructingMove": "{{userPokemonName}} costringe {{targetPokemonName}} a ripetere immediatamente la mossa!",
-  "lunarDanceRestore": "Una mistica luce lunare\navvolge {{pokemonName}}!",
-  "forceLast": "Il turno di {{targetPokemonName}} slitta!",
-  "splash": "Ma non succede nulla!"
+  "corrosiveGasItem": "{{pokemonName}} scioglie\n{{itemName}} di {{targetName}}!"
 }

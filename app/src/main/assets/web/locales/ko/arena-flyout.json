@@ -12,7 +12,6 @@
   "heavyRain": "강한 비",
   "harshSun": "강한 쾌청",
   "strongWinds": "난기류",
-  "neutralizingGas": "화학변화가스",
   "misty": "미스트필드",
   "electric": "일렉트릭필드",
   "grassy": "그래스필드",
@@ -43,7 +42,5 @@
   "ionDeluge": "플라스마샤워",
   "fireGrassPledge": "불바다",
   "waterFirePledge": "무지개",
-  "grassWaterPledge": "습지초원",
-  "fairyLock": "페어리록",
-  "imprison": "봉인"
+  "grassWaterPledge": "습지초원"
 }

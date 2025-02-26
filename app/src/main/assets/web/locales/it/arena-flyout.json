@@ -12,7 +12,6 @@
   "heavyRain": "Acquazzone",
   "harshSun": "Luce accecante",
   "strongWinds": "Corrente d'aria misteriosa",
-  "neutralizingGas": "Gas Reagente",
   "misty": "Campo Nebbioso",
   "electric": "Campo Elettrico",
   "grassy": "Campo Erboso",
@@ -44,6 +43,5 @@
   "fireGrassPledge": "Mare di Fiamme",
   "waterFirePledge": "Arcobaleno",
   "grassWaterPledge": "Palude",
-  "fairyLock": "Blocco Fatato",
-  "imprison": "Esclusiva"
+  "fairyLock": "Blocco Fatato"
 }

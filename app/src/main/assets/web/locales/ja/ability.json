@@ -1069,7 +1069,7 @@
   },
   "lingeringAroma": {
     "name": "とれないにおい",
-    "description": "相手に 触られると とれないにおいが 相手に うつってしまう。"
+    "description": "直接攻撃を受けたとき、相手の特性もとれないにおいにする。"
   },
   "seedSower": {
     "name": "こぼれダネ",
