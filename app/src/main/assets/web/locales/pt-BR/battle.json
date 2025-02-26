@@ -77,11 +77,12 @@
   "skipItemQuestion": "Tem certeza de que não quer escolher um item?",
   "itemStackFull": "O estoque de {{fullItemName}} está cheio.\nVocê receberá {{itemName}} no lugar.",
   "eggHatching": "Opa?",
-  "eggSkipPrompt": "Pular para súmario de ovos?",
+  "eggSkipPrompt": "{{eggsToHatch}} ovos estão prontos para chocar.\nPular para o resumo de ovos?",
   "ivScannerUseQuestion": "Quer usar o Scanner de IVs em {{pokemonName}}?",
   "wildPokemonWithAffix": "{{pokemonName}} selvagem",
   "foePokemonWithAffix": "{{pokemonName}} adversário",
   "useMove": "{{pokemonNameWithAffix}} usou {{moveName}}!",
+  "magicCoatActivated": "{{pokemonNameWithAffix}} rebateu {{moveName}} de volta!",
   "drainMessage": "{{pokemonName}} teve sua\nenergia drenada!",
   "regainHealth": "{{pokemonName}} recuperou\npontos de saúde!",
   "stealEatBerry": "{{pokemonName}} roubou e comeu\na {{berryName}} de {{targetName}}!",
@@ -114,5 +115,6 @@
   "ppReduced": "O PP do movimento {{moveName}} de\n{{targetName}} foi reduzido em {{reduction}}!",
   "mysteryEncounterAppeared": "O que é isso?",
   "battlerTagsHealBlock": "{{pokemonNameWithAffix}} não pode restaurar seus PS!",
-  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}} pode restaurar seus PS novamente!"
+  "battlerTagsHealBlockOnRemove": "{{pokemonNameWithAffix}} pode restaurar seus PS novamente!",
+  "pokemonTerastallized": "{{pokemonNameWithAffix}} Terastalizou para o tipo {{moveType}}!"
 }

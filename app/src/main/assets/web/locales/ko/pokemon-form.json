@@ -135,7 +135,7 @@
   "furfrouPharaoh": "킹덤컷",
   "espurrMale": "수컷의 모습",
   "espurrFemale": "암컷의 모습",
-  "honedgeShiled": "실드폼",
+  "honedgeShield": "실드폼",
   "honedgeBlade": "블레이드폼",
   "pumpkaboo": "보통 사이즈",
   "pumpkabooSmall": "작은 사이즈",
@@ -195,6 +195,9 @@
   "miniorViolet": "보라색 코어",
   "mimikyuDisguised": "둔갑한 모습",
   "mimikyuBusted": "들킨 모습",
+  "cosmog": "기본",
+  "cosmogRadiantSun": "라이징페이즈",
+  "cosmogFullMoon": "풀문페이즈",
   "necrozma": "네크로즈마",
   "necrozmaDuskMane": "황혼의 갈기",
   "necrozmaDawnWings": "새벽의 날개",
@@ -253,8 +256,8 @@
   "tatsugiriCurly": "젖힌 모습",
   "tatsugiriDroopy": "늘어진 모습",
   "tatsugiriStretchy": "뻗은 모습",
-  "dunsparceTwo": "두 마디 폼",
-  "dunsparceThree": "세 마디 폼",
+  "dunsparceTwoSegment": "두 마디 폼",
+  "dunsparceThreeSegment": "세 마디 폼",
   "gimmighoulChest": "상자폼",
   "gimmighoulRoaming": "도보폼",
   "koraidonApexBuild": "완전형태",
@@ -286,5 +289,22 @@
   "galarDarumakaZen": "달마모드",
   "paldeaTaurosCombat": "컴뱃종",
   "paldeaTaurosBlaze": "블레이즈종",
-  "paldeaTaurosAqua": "워터종"
+  "paldeaTaurosAqua": "워터종",
+  "floetteEternalFlower": "영원의 꽃",
+  "ursalunaBloodmoon": "붉은 달",
+  "regionalForm": {
+    "ALOLA": "알로라의 모습",
+    "GALAR": "가라르의 모습",
+    "HISUI": "히스이의 모습",
+    "PALDEA": "팔데아의 모습"
+  },
+  "appendForm": {
+    "GENERIC": "{{pokemonName}} ({{formName}})",
+    "ALOLA": "알로라 {{pokemonName}}",
+    "GALAR": "가라르 {{pokemonName}}",
+    "HISUI": "히스이 {{pokemonName}}",
+    "PALDEA": "팔데아 {{pokemonName}}",
+    "ETERNAL": "영원의 꽃 {{pokemonName}}",
+    "BLOODMOON": "붉은 달 {{pokemonName}}"
+  }
 }
