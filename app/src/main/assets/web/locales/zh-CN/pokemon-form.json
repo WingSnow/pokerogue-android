@@ -135,7 +135,7 @@
   "furfrouPharaoh": "国王造型",
   "espurrMale": "雄性",
   "espurrFemale": "雌性",
-  "honedgeShiled": "盾牌",
+  "honedgeShield": "盾牌",
   "honedgeBlade": "利剑",
   "pumpkaboo": "平均尺寸",
   "pumpkabooSmall": "小尺寸",
@@ -253,8 +253,8 @@
   "tatsugiriCurly": "上弓姿势",
   "tatsugiriDroopy": "下垂姿势",
   "tatsugiriStretchy": "平挺姿势",
-  "dunsparceTwo": "两节",
-  "dunsparceThree": "三节",
+  "dunsparceTwoSegment": "两节",
+  "dunsparceThreeSegment": "三节",
   "gimmighoulChest": "宝箱形态",
   "gimmighoulRoaming": "徒步形态",
   "koraidonApexBuild": "顶尖形态",
@@ -286,5 +286,13 @@
   "galarDarumakaZen": "达摩",
   "paldeaTaurosCombat": "斗战种",
   "paldeaTaurosBlaze": "火炽种",
-  "paldeaTaurosAqua": "水澜种"
+  "paldeaTaurosAqua": "水澜种",
+  "floetteEternalFlower": "永恒之花",
+  "ursalunaBloodmoon": "赫月",
+  "regionalForm": {
+    "ALOLA": "阿罗拉的样子",
+    "GALAR": "伽勒尔的样子",
+    "HISUI": "洗翠的样子",
+    "PALDEA": "帕底亚的样子"
+  }
 }

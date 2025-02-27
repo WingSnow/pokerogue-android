@@ -1,51 +1,19 @@
-## Pokémon Rougue's Android Packaging(b 站黑咖啡和冰月亮)
+## Pokémon Rougue's Android Packaging(冬天吃雪糕)
 
-##### is Updated 2024/11/26 version
+基于(b站黑咖啡和冰月亮的项目)[https://github.com/1596941391qq/pokerogue-android]重新打包。
 
-##### 宝可梦肉鸽安卓版已更新到 2024/11/26版本
+因为原项目三个月没有更新游戏版本了，从(pokerogue 官方库)[https://github.com/pagefaultgames/pokerogue/tree/0c920ba195c8fa8470694f5a1f4b3157438aa256]编译后替换了web文件夹并重新打包。
 
-[中文](#apk直接安装可玩)
-
-APK Direct Installation for Play
-Download the newly packaged version in the release section for direct installation and play without the need to log in.
-Compatibility Note: Playable on Android 11 and above or 7 and below; for other versions, please refer to the feedback from the group friends below.
-
-Continuous Updates, Synchronized with the Official Website
-Maybe updated once a week.
-
-Support for Import and Export
-You can freely import new versions.
-
-Inherit Previous Save Data
-After each installation, the previous save data will be inherited.
+当前游戏版本为：**1.7.0**
 
 #### apk 直接安装可玩
 
-在 release 里面下载新打包的版本，安装即玩无需登录
-兼容性说明：安卓 11 及以上或 7 及以下可玩，其他版本请看下方群友反馈
+在 release 里面下载新打包的版本，安装即玩无需登录。
 
-#### 持续更新，与官网同步
+因为和原项目签名不同，如果已安装原项目的apk，需要先删除。
 
-也许是一个月更新一次
+❗❗❗注意：删除apk后存档会消失，请先**导出数据**再删除。导出的数据（*.prsv）可以在安装新apk后再导入。
 
-#### 支持导入导出
+#### 不定期更新
 
-可以随意导入新的版本，从zarchiver读档能基本稳定不崩
-
-#### 继承之前存档
-
-每次安装覆盖完会继承之前存档
-
-#### 更新说明
-
-中文 wiki 链接：https://wiki.pokerogue.net/zh:changelog:current
-
-#### 打赏链接
-
-<a href="https://smms.app/image/dH5gmwYtMaKBrWO" target="_blank"><img src="https://s2.loli.net/2024/06/02/dH5gmwYtMaKBrWO.jpg" width=212 height=280></a>
-
-### 群友反馈
-
-<a href="https://smms.app/image/fOwC29NYQ81rVvy" target="_blank"><img src="https://s2.loli.net/2024/06/02/fOwC29NYQ81rVvy.png" width=184 height=320></a>
-
-<a href="https://smms.app/image/aqo3BJyw8xTrbOV" target="_blank"><img src="https://s2.loli.net/2024/06/02/aqo3BJyw8xTrbOV.png" width=380 height=120></a>
+看心情。如果原项目更新了可以从原项目下载，说不定哪一天就弃坑了。
