@@ -4,7 +4,7 @@
 
 因为原项目三个月没有更新游戏版本了，从[pokerogue 官方库](https://github.com/pagefaultgames/pokerogue/tree/0c920ba195c8fa8470694f5a1f4b3157438aa256)编译后替换了web文件夹并重新打包。
 
-当前游戏版本为：**1.7.0**
+当前游戏版本为：**1.7.5**
 
 #### apk 直接安装可玩
 
